@@ -1,0 +1,1 @@
+Versao 1.0 - Artefato inicial criado para aula pratica de Gerenciamento de Configuracao.
